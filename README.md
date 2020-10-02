@@ -10,6 +10,7 @@ Trained recurrent neural network (RNN) models for predicting emotions from Engli
 * __*level3.ipynb*__: script is showing how to use our models for predicting emotions in Jupiter Notebook.
 * __*emotion_prediction.py*__: helper scripts that defines EmotionPredictor class.
 * __*models/*__: contains trained RNN models.
+* __*twitter_dump.txt*__: file containing the tweets that are needed to be classfied by our model.
 
 ### Example Usage
 
